@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merttbeyaz&label=Profile%20views&color=0e75b6&style=flat" alt="merttbeyaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merttbeyaz" alt="merttbeyaz" /></a> </p>
-
 - 🔭 I’m currently working on **improve myself**
 
 - 🌱 I’m currently learning **Full Stack Developer**
@@ -30,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merttbeyaz&show_icons=true&locale=en" alt="merttbeyaz" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merttbeyaz" alt="merttbeyaz" /></a> </p>
